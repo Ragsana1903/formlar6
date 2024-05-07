@@ -1,0 +1,32 @@
+div{
+    margin: 50px 45px;
+    background-color: rgb(90, 170, 239);
+}
+input{
+    margin-bottom: 20px;
+    justify-content: center;
+    padding: 10px 30px;
+    margin-right: 40px;
+    background-color: azure;
+    color: black;
+}
+
+textarea{
+    padding: 30px;
+    background-color: aliceblue;
+    color: black;
+
+}
+
+label{
+    color: black;
+}
+button{
+    border-radius: 10px;
+    background-color: rgb(192, 18, 18);
+    color: white;
+    margin-top:20px ;
+    margin-left: 25px;
+    /* padding-left: 45px; */
+    size: 500px;
+}
